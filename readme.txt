@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 This is a new line.
 This is a new new line.
 Create a new branch is quick.
+reating a new branch is quick & simple.
 
